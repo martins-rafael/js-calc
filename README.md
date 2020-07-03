@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/js-calc?color=7159c1&style=flat-square">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/martins-rafael/js-calc?color=7159c1&style=flat-square">
-  <a href="https://github.com/martins-rafael/gamingbot/commits/master">
+  <a href="https://github.com/martins-rafael/js-calc/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/martins-rafael/js-calc?color=7159c1&style=flat-square">
   </a>
 </p>
